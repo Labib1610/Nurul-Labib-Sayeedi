@@ -1,0 +1,78 @@
+1.
+
+print('labib\nroll:045\nage:20\nstudent')
+
+output: labib
+        roll:045
+        age:20
+	student
+
+2.
+
+print('labib\troll:045\tage:20\tstudent')
+
+output: labib	roll:045	age:20	student
+
+3.
+
+print('labib\\nroll:045')
+
+output: labib\nroll:045
+
+4.
+
+print('please enter a number:\n10\nThe sum of 10+5 is 15\nWhat\nis the\nSum of "10+20?"')
+
+output:please enter a number:
+       10
+       The sum of 10+5 is 15
+       What
+       is the
+       Sum of "10+20?"
+
+5.
+
+print("Nurul",end=" ")
+print("Labib")
+
+output:Nurul Labib
+
+6.
+
+message="hello world"
+Message="Hi"
+print(message)
+print(Message)
+
+output: hello world
+	Hi
+
+7.
+
+num1 = 25
+num2 = 10
+addition = num1+num2
+substraction = num1-num2
+multiplication = num2*num1
+division = num1/num2
+remainder = num1%num2
+print('addition.\n',addition)
+print('substraction.',substraction)
+print('multiplication.',multiplication)
+print('division.',division)
+print('remainder.',remainder)
+
+output: addition.
+ 	 35
+	substraction. 15
+	multiplication. 250
+	division. 2.5
+	remainder. 5
+
+8.
+
+mes1 = 'Hello'
+mes2 = 'World'
+print(mes1+' '+mes2)
+
+output: Hello World
